@@ -1,2 +1,2 @@
-# kanithasen-public
+# chibigund-public
 First public repository
